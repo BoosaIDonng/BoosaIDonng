@@ -72,7 +72,7 @@ public class BoosaIDonng {
 <div align="center">
 
 <a href="https://github.com/BoosaIDonng">
-  <img src="https://github-profile-trophy.vercel.app/?username=BoosaIDonng&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+  <img src="https://trophy.benkou.dev/?username=BoosaIDonng&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </a>
 
 </div>
